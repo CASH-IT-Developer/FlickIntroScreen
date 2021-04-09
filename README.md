@@ -1,6 +1,5 @@
 # FlickIntroScreen
-[![](https://jitpack.io/v/CASH-IT-Developer/FlickShowCase.svg)](https://jitpack.io/#CASH-IT
--Developer/FlickIntroScreen)
+[![](https://jitpack.io/v/CASH-IT-Developer/FlickIntroScreen.svg)](https://jitpack.io/#CASH-IT-Developer/FlickIntroScreen)
 <img src="https://raw.githubusercontent.com/CASH-IT-Developer/FlickIntroScreen/master/flickintro.jpeg" width="250" height="500">
 
    How to implementation
