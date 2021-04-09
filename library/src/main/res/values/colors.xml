@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="flickintro_statusbar_color">#262626</color>
+    <color name="flickintro_background_color">#FFFFFF</color>
+    <color name="flickintro_title_color">#262626</color>
+    <color name="flickintro_desc_color">#262626</color>
+    <color name="flickintro_separator_color">#00000000</color>
+    <color name="flickintro_bar_color">@android:color/transparent</color>
+    <color name="flickintro_default_fab_background_color">#59000000</color>
+    <color name="flickintro_icon_tint">#262626</color>
+    <color name="flickintro_default_unselected_color">#1FFFFFFF</color>
+    <color name="flickintro_default_selected_color">#EE424D</color>
+    <color name="flickintro_navbar_color">#000000</color>
+    <color name="flickintro_ripple_color">#1FFFFFFF</color>
+    <color name="flickintro_colorPrimary">#EE424D</color>
+    <color name="flickintro_red">#EE424D</color>
+    <color name="flickintro_grey">#22000000</color>
+    <color name="flickintro_white">#FFFFFF</color>
+</resources>

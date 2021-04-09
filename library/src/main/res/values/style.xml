@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppIntroStyle" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="buttonStyle">@style/FlickIntroButtonStyle</item>
+        <item name="colorPrimary">@color/flickintro_red</item>
+        <item name="colorPrimaryDark">@color/flickintro_red</item>
+        <item name="colorAccent">@color/flickintro_grey</item>
+        <item name="android:fontFamily">@font/nunito_bold</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+    </style>
+
+    <style name="FlickIntroButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_style_primary</item>
+        <item name="android:fontFamily">@font/nunito_extrabold</item>
+        <item name="android:textColor">@color/flickintro_white</item>
+        <item name="android:paddingLeft">14dp</item>
+        <item name="android:paddingRight">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:stateListAnimator" tools:targetApi="lollipop">@null</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
