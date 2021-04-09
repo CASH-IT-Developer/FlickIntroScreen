@@ -42,32 +42,6 @@ class MainActivity : FlickIntro() {
         })
 
 
-
-//        addFinishedClickListener(object :OnFinishedClick{
-//            override fun onFinishedClick() {
-//
-//            }
-//
-//        })
-//        onFinishedClick {
-//            Toast.makeText(this,"Selesaiiii",Toast.LENGTH_LONG).show()
-//        }
-
         setTransformer(FlickIntroAnimationType.Flow)
-
-//        onIntroFinished().apply {
-//            Toast.makeText(this@MainActivity,"Finishhhhhh",Toast.LENGTH_LONG).show()
-//        }
-
-//        onFinishedClick {
-//            Toast.makeText(this@MainActivity,"Finishhhhhh",Toast.LENGTH_LONG).show()
-//        }
-
-
-
-
-
-//        startActivity(Intent(this,IntoPage::class.java))
-
     }
 }
